@@ -1,4 +1,3 @@
-Fogging-effects-on-a-rotating-cuboid
-====================================
+The project mainly includes the spinning of a cuboid using graphic library by implementing graphic functions.It is a very simple application designed using the built-in Graphic functions which are available in the <GL/glut.h> header file.
 
-A cuboid rotating on a checkered background with fogging and lighting effects using OpenGL
+The program demonstrates how a cuboid spins with suitable co-ordinates axes with shadow.It consists of a cuboid spinning on a checkered background.The main feature of the spinning cubiod is that of lighting and fogging.Using the suitable keyboard and right-mouse click button functions,the lighting and fogging functions can be demonstrated.The motion of the cuboid can be stopped and rotated by the user using the key “s”.This motion is slow.Another interesting feature of the spinning cuboid is that it can be viewed as 2-dimensional or 3-dimensional.The fogging and lighting effect can be used while in 2D or 3D.
